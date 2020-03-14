@@ -10,7 +10,7 @@ difference
 end
 
 def division(num1, num2)
-div = num2/num1
+div = num1/num2
 div
 end
 
@@ -20,11 +20,11 @@ product
 end
 
 def modulo(num1, num2)
-mod = num2%num1
+mod = num1%num2
 mod
 end
 
 def square_root(num)
-root = math.sqrt(num)
+root = Math.sqrt(num)
 root
 end
